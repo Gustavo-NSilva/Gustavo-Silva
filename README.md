@@ -11,6 +11,7 @@ Hello, there! I'm a computer science student passionate about technology and acc
 - 🤖 I am interested in front-end development and accessibility.
 - 🔍 Focused on creating accessible solutions for inclusive communication.
 - 👨‍💻 Exploring new tools and programming languages.
+- 📚 I'm currently studying front-end development.
 
 ### 🛠️ Tools & Technologies
 ![C](https://img.shields.io/badge/-C-gray?logo=c)
